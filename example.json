@@ -1,0 +1,11 @@
+{
+  "object": "model behavior before publication",
+  "interaction": "evaluation result is published and later included in training/evaluation context",
+  "has_classical_record": true,
+  "has_quantum_correlation": false,
+  "has_identifiable_key": false,
+  "has_recovery_map": false,
+  "recursive_feedback": true,
+  "operational_recovery": false,
+  "evidence_sufficient": true
+}
