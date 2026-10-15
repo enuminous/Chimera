@@ -127,3 +127,7 @@ do not infer common physical mechanisms from structural analogy.
 ## Status
 
 CHIMERA is a methodological classifier / research discipline within the EFMW Zoo. It is **not**, by itself, evidence for a new physical law, a unified theory of observation, or equivalence among quantum mechanics, cryptography, and recursive systems.
+
+## Lean decision-stage coverage
+
+[Source-pinned shared Lean verification](LEAN_VERIFICATION.md) covers the decision stage and records the remaining implementation obligations.
